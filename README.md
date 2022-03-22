@@ -12,9 +12,10 @@ Genomes used in this analysis from the [Darwin Tree of Life project](https://www
 
 Annotation of homeobox genes from all classes using these genomes can be carried out using the [HbxFinder pipeline](https://github.com/PeterMulhair/HbxFinder)
 
+---
 
 <div align="center">
 <p align="center">
-<img src="https://github.com/PeterMulhair/Lepidoptera_homeobox/blob/main/01_Hox_gene_cluster/figures/Hox_summary_microp.png" width="700" height="300">
+<img src="https://github.com/PeterMulhair/Lepidoptera_homeobox/blob/main/01_Hox_gene_cluster/figures/Hox_summary_microp.png" width="700" height="350">
 </p>
 </div>
