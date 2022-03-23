@@ -1,4 +1,4 @@
-# Lepidoptera_homeobox
+# Lepidoptera homeobox evolution
 This repository contains the datasets and scripts needed to reproduce the results in X
 
 Each folder contains data and code required to recreate results and figures in each section of the manuscript.
