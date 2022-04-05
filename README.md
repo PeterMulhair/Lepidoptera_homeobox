@@ -23,6 +23,6 @@ Annotation of homeobox genes from all classes using these genomes can be carried
 
 <div align="center">
 <p align="center">
-<img src="https://github.com/PeterMulhair/Lepidoptera_homeobox/blob/main/01_Hox_gene_cluster/figures/Hox_summary_microp.png" width="700" height="350">
+<img src="https://github.com/PeterMulhair/Lepidoptera_homeobox/blob/main/01_Hox_gene_cluster/figures/Figure2.png" width="700" height="350">
 </p>
 </div>
