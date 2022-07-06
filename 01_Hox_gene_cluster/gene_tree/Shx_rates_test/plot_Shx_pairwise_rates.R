@@ -2,7 +2,7 @@ library(ggplot2)
 library(patchwork)
 library(getopt)
 
-Shx_pairwiseID <- read.delim("~/Dropbox/Postdoc/tree_of_life/results/gene_cluster_analysis/homeobox_genes/hbxfinder_output/updated_genomes/seq_files/rates_test/Shx_pairwiseID_split.tsv", header=FALSE)
+Shx_pairwiseID <- read.delim("Shx_pairwiseID_split.tsv", header=FALSE)
 
 Shx<-ggplot(Shx_pairwiseID, aes(x = V3, y = V1)) + geom_boxplot(aes(fill = V2)) + theme_classic() + scale_fill_manual(values = c("#ff7f00", "#ffdbbb")) +
 ylab(NULL) + 
@@ -16,9 +16,9 @@ dev.off()
 
 
 
-ShxA_pairwiseID <- read.delim("~/Dropbox/Postdoc/tree_of_life/results/gene_cluster_analysis/homeobox_genes/hbxfinder_output/updated_genomes/seq_files/rates_test/ShxA_pairwiseID_split.tsv", header=FALSE)
-ShxB_pairwiseID <- read.delim("~/Dropbox/Postdoc/tree_of_life/results/gene_cluster_analysis/homeobox_genes/hbxfinder_output/updated_genomes/seq_files/rates_test/ShxB_pairwiseID_split.tsv", header=FALSE)
-ShxC_pairwiseID <- read.delim("~/Dropbox/Postdoc/tree_of_life/results/gene_cluster_analysis/homeobox_genes/hbxfinder_output/updated_genomes/seq_files/rates_test/ShxC_pairwiseID_split.tsv", header=FALSE)
+ShxA_pairwiseID <- read.delim("ShxA_pairwiseID_split.tsv", header=FALSE)
+ShxB_pairwiseID <- read.delim("ShxB_pairwiseID_split.tsv", header=FALSE)
+ShxC_pairwiseID <- read.delim("ShxC_pairwiseID_split.tsv", header=FALSE)
 
 ShxA_split<-split(ShxA_pairwiseID, ShxA_pairwiseID$V1)
 ShxA_lyc<-ShxA_split$LycSp
