@@ -1,0 +1,13 @@
+{
+	"n_targets": 55079,
+	"n_bootstraps": 0,
+	"n_processed": 17737239,
+	"n_pseudoaligned": 16993459,
+	"n_unique": 9381606,
+	"p_pseudoaligned": 95.8,
+	"p_unique": 52.9,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 24 10:02:44 2022",
+	"call": "kallisto quant -i Nymphalis_urticae_transcriptome -o /home/zoo/zool2500/tree_of_life/Nymphalis_urticae_output --threads 10 ../trim_map_reads/Nymphalis_urticae_1_paired_trim_reform.fastq ../trim_map_reads/Nymphalis_urticae_2_paired_trim_reform.fastq"
+}

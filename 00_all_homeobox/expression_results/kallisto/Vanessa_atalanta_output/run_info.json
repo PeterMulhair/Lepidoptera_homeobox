@@ -1,0 +1,13 @@
+{
+	"n_targets": 44296,
+	"n_bootstraps": 0,
+	"n_processed": 19300237,
+	"n_pseudoaligned": 18110761,
+	"n_unique": 10287132,
+	"p_pseudoaligned": 93.8,
+	"p_unique": 53.3,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 24 10:07:07 2022",
+	"call": "kallisto quant -i Vanessa_atalanta_transcriptome -o /home/zoo/zool2500/tree_of_life/Vanessa_atalanta_output --threads 10 ../trim_map_reads/Vanessa_atalanta_1_paired_trim_reform.fastq ../trim_map_reads/Vanessa_atalanta_2_paired_trim_reform.fastq"
+}

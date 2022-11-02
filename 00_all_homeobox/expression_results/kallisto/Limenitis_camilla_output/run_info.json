@@ -1,0 +1,13 @@
+{
+	"n_targets": 71975,
+	"n_bootstraps": 0,
+	"n_processed": 16554932,
+	"n_pseudoaligned": 15852881,
+	"n_unique": 9281079,
+	"p_pseudoaligned": 95.8,
+	"p_unique": 56.1,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 24 10:02:44 2022",
+	"call": "kallisto quant -i Limenitis_camilla_transcriptome -o /home/zoo/zool2500/tree_of_life/Limenitis_camilla_output --threads 10 ../trim_map_reads/Limenitis_camilla_1_paired_trim_reform.fastq ../trim_map_reads/Limenitis_camilla_2_paired_trim_reform.fastq"
+}

@@ -1,0 +1,1 @@
+sudo tblastn -query homeobox.fasta -db BLA_transcriptome -outfmt "6 qseqid sseqid stitle evalue pident bitscore qstart qend qlen sstart send slen" -evalue 1e-5 -max_target_seqs 1 -out BLA_transcriptome_homeobox.tsv

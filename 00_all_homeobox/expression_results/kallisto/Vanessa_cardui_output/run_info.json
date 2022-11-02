@@ -1,0 +1,13 @@
+{
+	"n_targets": 64866,
+	"n_bootstraps": 0,
+	"n_processed": 15212402,
+	"n_pseudoaligned": 14127268,
+	"n_unique": 7177728,
+	"p_pseudoaligned": 92.9,
+	"p_unique": 47.2,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 24 10:07:07 2022",
+	"call": "kallisto quant -i Vanessa_cardui_transcriptome -o /home/zoo/zool2500/tree_of_life/Vanessa_cardui_output --threads 10 ../trim_map_reads/Vanessa_cardui_1_paired_trim_reform.fastq ../trim_map_reads/Vanessa_cardui_2_paired_trim_reform.fastq"
+}

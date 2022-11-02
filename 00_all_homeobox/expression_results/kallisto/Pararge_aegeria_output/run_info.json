@@ -1,0 +1,13 @@
+{
+	"n_targets": 59404,
+	"n_bootstraps": 0,
+	"n_processed": 18848378,
+	"n_pseudoaligned": 17756910,
+	"n_unique": 9666443,
+	"p_pseudoaligned": 94.2,
+	"p_unique": 51.3,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 24 10:02:44 2022",
+	"call": "kallisto quant -i Pararge_aegeria_transcriptome -o /home/zoo/zool2500/tree_of_life/Pararge_aegeria_output --threads 10 ../trim_map_reads/Pararge_aegeria_1_paired_trim_reform.fastq ../trim_map_reads/Pararge_aegeria_2_paired_trim_reform.fastq"
+}

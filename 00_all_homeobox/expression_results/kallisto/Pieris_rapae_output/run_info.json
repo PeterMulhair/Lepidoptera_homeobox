@@ -1,0 +1,13 @@
+{
+	"n_targets": 43210,
+	"n_bootstraps": 0,
+	"n_processed": 14111000,
+	"n_pseudoaligned": 13452293,
+	"n_unique": 6584286,
+	"p_pseudoaligned": 95.3,
+	"p_unique": 46.7,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Oct 24 10:07:07 2022",
+	"call": "kallisto quant -i Pieris_rapae_transcriptome -o /home/zoo/zool2500/tree_of_life/Pieris_rapae_output --threads 10 ../trim_map_reads/Pieris_rapae_1_paired_trim_reform.fastq ../trim_map_reads/Pieris_rapae_2_paired_trim_reform.fastq"
+}
