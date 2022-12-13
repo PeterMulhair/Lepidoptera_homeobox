@@ -1,10 +1,10 @@
 # Lepidoptera homeobox evolution
-This repository contains the datasets and scripts needed to reproduce the results in X
+This repository contains the datasets and scripts needed to reproduce the results in [Diversity, duplication, and genomic organization of homeobox genes in Lepidoptera](https://genome.cshlp.org/content/early/2022/12/08/gr.277118.122.abstract)
 
 Each folder contains data and code required to recreate results and figures in each section of the manuscript.
 
 If you use any scripts from this repository please cite:
-X
+[Mulhair et al. 2022](https://genome.cshlp.org/content/early/2022/12/08/gr.277118.122.abstract)
 
 ## Instructions
 
