@@ -4,7 +4,7 @@ This repository contains the datasets and scripts needed to reproduce the result
 Each folder contains data and code required to recreate results and figures in each section of the manuscript.
 
 If you use any scripts from this repository please cite:
-[Mulhair et al. 2022](https://genome.cshlp.org/content/33/1/32)
+[Mulhair et al. 2023](https://genome.cshlp.org/content/33/1/32)
 
 ## Instructions
 
